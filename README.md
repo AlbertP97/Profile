@@ -1,4 +1,5 @@
-I'm José Alberto Payán Marta, I'm a Computer Science Engineer with a solid foundation in Machine Learning and Data Science, backed by three years of hands-on experience. Proficient in programming, I have successfully designed and implemented software solutions as well as machine learning models. Adaptable and innovative problem-solver, dedicated to continuous learning and staying updated with emerging trends. Strong communicator with a collaborative mindset, committed to delivering high-quality results within project timelines.
+I'm José Alberto Payán Marta, a Computer Science Engineer with a Master's degree in Computer Engineering, specializing in Data Science, Machine Learning, and cloud-based data workflows. Proven expertise in developing predictive models, multimodal vision-language architectures, and automated ETL pipelines to drive business and research objectives. Proficient in Python, PyTorch, Scikit-learn, TensorFlow, SQL, GCP,
+Power BI, Tableau, BigQuery, and Azure with a strong background in translating complex data and academic research into actionable, deployed solutions.
 
 LinkedIn: www.linkedin.com/in/alberto-payan-2011a1200
 
@@ -10,19 +11,22 @@ This portfolio represents a comprehensive compilation of diverse Machine Learnin
 
 Contents:
 
-- Variety of Problems: From classification to regression, and from anomaly detection to text generation, this portfolio covers a wide range of Machine Learning problems, offering innovative and effective solutions for each.
-- Implementation in Different Libraries: The presented models are developed in both Scikit-Learn, known for its simplicity and ease of use, as well as TensorFlow and PyTorch, leaders in the deep learning field, demonstrating the author's versatility in using different tools.
-- Detailed Documentation: Each model is accompanied by comprehensive documentation describing its operation, the data used, the model architecture, and the results obtained. This provides a complete understanding of each implementation and facilitates its reproduction and analysis by third parties.
-- Results and Performance Metrics: Key performance metrics are included to assess the effectiveness of each model, such as accuracy, recall, F1-score, RMSE, among others. These metrics are crucial for validating the predictive capability of the models and comparing their performance with other solutions.
-- Results Visualization: In addition to numerical metrics, clear and concise visualizations are provided that illustrate the performance of the models, making it easier to interpret the results and identify areas for improvement.
+- Variety of Problems: Spanning predictive regression and retail sales forecasting, market basket analysis (association rule mining), medical image synthesis, multimodal vision-language reasoning (Medical Visual Question Answering), and automated ETL data pipelines, this portfolio addresses both applied business challenges and academic research problems.
+- Implementation Across Libraries & Cloud Stacks: Models and workflows are built using Scikit-Learn, XGBoost, and Apriori for tabular and statistical learning, alongside PyTorch, TensorFlow, and Keras for deep learning and generative architectures. End-to-end pipelines integrate SQL, MariaDB, BigQuery, MS SQL Server, Google Cloud Platform (GCP), and Azure.
+- Detailed Documentation: Each project includes structured documentation covering data ingestion and feature engineering, model architecture, experimental setup, and validation methodology, ensuring full reproducibility and clear technical evaluation.
+- Results and Performance Metrics: Implementations are benchmarked using domain-appropriate metrics—including accuracy, recall, F1-score, RMSE, and association rule confidence—comparing custom models against statistical baselines and published literature.
+- Results Visualization & Interactive Deployment: Beyond static diagnostic plots in Matplotlib and Seaborn, findings are translated into interactive decision-support applications and business intelligence dashboards using Streamlit, Power BI, and Tableau.
 
 Purpose of the Portfolio:
 
-The main objective of this portfolio is to demonstrate skills and knowledge in the field of Data Science and Machine Learning. By presenting a variety of models implemented in different libraries and applied to various problems, it aims to highlight the ability to address complex challenges and generate effective solutions using advanced machine learning techniques.
+The primary objective of this portfolio is to demonstrate applied expertise in Data Science, Machine Learning, and data engineering—bridging academic rigor from graduate research in computer engineering with production-ready business solutions. By showcasing end-to-end workflows from raw data extraction to interactive stakeholder deployment, it highlights the ability to turn complex datasets into actionable insights and scalable predictive systems.   
 
 Target Audience:
 
-This portfolio is aimed at recruiters, employers, and colleagues interested in assessing the author's skills and experience in the field of Data Science and Machine Learning. It can also serve as an educational resource for students and professionals looking to learn and improve their skills in this constantly evolving field.
+This portfolio is designed for recruiters, hiring managers, technical leads, and research collaborators evaluating practical capabilities across machine learning engineering, multimodal deep learning, and business analytics. It also serves as a structured reference for practitioners and students exploring applied forecasting, generative data augmentation, and vision-language modeling.   
 
-Add a project status update
-Status updates are brief reports tracking your project's health and progress.
+Projects Status:
+
+- Completed & Deployed Business Solutions: End-to-end retail sales forecasting (XGBoost), customer cross-selling analysis (Apriori), and the interactive Streamlit scenario-simulation web dashboard developed for Octane (concluded February 2026) are complete and documented, alongside automated GCP/BigQuery ETL and Power BI/Tableau reporting workflows.
+- Completed Deep Learning & Research Implementations: The GAN-based Chest X-ray synthetic data augmentation pipeline is finalized. Core modeling, training (on NVIDIA RTX 4080 hardware), and benchmarking across five Medical Visual Question Answering datasets (VQA-RAD, SLAKE, PathVQA, PMC-VQA, and Kvasir-VQA) are complete, with findings prepared for publication in an Elsevier journal.
+- Active Maintenance & Upcoming Additions: Ongoing updates focus on standardizing repository templates, expanding experiment tracking with MLflow, and incorporating new cloud-native data engineering and multimodal ML workflows. 
